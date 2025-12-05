@@ -1,2 +1,1 @@
-# ATM-SOFTWARE-MANAGEMENT-SYSTEM-
-The ATM Software Management System is a Python-based console application designed to simulate the core functionalities of an Automated Teller Machine (ATM). This project focuses on providing a secure, user-friendly banking experience where users can authenticate themselves and perform essential financial operations.
+The Smart Traffic Management System is a Java-based application designed to monitor, control, and optimize urban traffic flow using automated decision-making. It aims to reduce congestion, improve road safety, and provide real-time insights to city administrators. This system can be integrated with sensors, cameras, or manual data input to dynamically adjust traffic signals and manage vehicle movement efficiently
